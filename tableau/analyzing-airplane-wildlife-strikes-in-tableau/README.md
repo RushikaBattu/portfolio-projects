@@ -9,7 +9,7 @@ and environmental impact.
 collisions to support decision-making.
 
 
-**Tableau Public Link:** https://public.tableau.com/app/profile/rushika.battu/vizzes
+**Tableau Public Link -** https://public.tableau.com/app/profile/rushika.battu/vizzes
 
 
 *Dashboard -*
