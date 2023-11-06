@@ -6,7 +6,7 @@
 
 •	Crafted data-driven narratives with Power BI, highlighting KPIs, and providing actionable recommendations for cost reduction.
 
-*Dashboard -*
+*Dashboards -*
 
 ![Ecommerce Analysis - Executive Summary](https://github.com/RushikaBattu/portfolio-projects/assets/135265999/1605ab70-0c12-4af9-b493-ecb12e08bf50)
 
