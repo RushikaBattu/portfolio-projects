@@ -1,4 +1,4 @@
-**Analyzing Healthcare Data in Tableau **
+Analyzing Healthcare Data in Tableau - 
 
 •	Analyzed healthcare data to uncover insights into hospital efficiency, focusing on factors affecting patient length of stay and cost for a fictional healthcare consulting company.
 
