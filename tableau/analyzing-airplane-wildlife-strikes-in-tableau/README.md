@@ -10,4 +10,6 @@ collisions to support decision-making.
 
 Tableau Public Link: https://public.tableau.com/app/profile/rushika.battu/vizzes
 
-<img width="999" alt="Airplane Wildlife Strikes" src="https://github.com/RushikaBattu/portfolio-projects/assets/135265999/1315599b-1c14-4540-9881-c96e44df5493">
+<img width="1003" alt="Airplane Wildlife Strikes" src="https://github.com/RushikaBattu/portfolio-projects/assets/135265999/2ec2fa4d-e659-4d6a-b2cc-d09b0f1dacde">
+
+
