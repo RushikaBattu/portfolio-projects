@@ -6,6 +6,6 @@ Mortgage Trading Analysis in Power BI –
 
 •	Conducted in-depth analysis of trade outcomes, offering valuable insights into refining trading strategies and maximizing profitability.
 
-Dashboard - 
+*Dashboard*  
 
 ![Mortgage Trading Analysis](https://github.com/RushikaBattu/portfolio-projects/assets/135265999/8ffdd5d2-7a25-4f68-85dc-ac897b69de05)
