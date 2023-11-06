@@ -1,4 +1,4 @@
-**Analyzing Healthcare Data in Tableau -**
+### **Analyzing Healthcare Data in Tableau -**
 
 •	Analyzed healthcare data to uncover insights into hospital efficiency, focusing on factors affecting patient length of stay and cost for a fictional healthcare consulting company.
 
@@ -7,9 +7,9 @@
 •	Developed dynamic and interactive Tableau dashboards to effectively convey actionable insights and present data for enhanced decision-making. 
 
 
-**Tableau Public Link -** https://public.tableau.com/app/profile/rushika.battu/vizzes
+### **Tableau Public Link -** https://public.tableau.com/app/profile/rushika.battu/vizzes
 
-*Dashboards -*
+### *Dashboards -*
 
 <img width="1226" alt="Analyzing Healthcare Data - LOS View" src="https://github.com/RushikaBattu/portfolio-projects/assets/135265999/a3b865cf-36c6-441d-85fe-50da840c1b9d">
 
