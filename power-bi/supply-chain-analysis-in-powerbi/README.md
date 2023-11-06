@@ -1,4 +1,4 @@
-**Supply Chain Analysis in Power BI –** 
+### **Supply Chain Analysis in Power BI –** 
 
 •	Developed Make vs. Buy analysis tool in Power BI for cost calculation, quote analysis, and internal manufacturing data integration.
 
@@ -6,7 +6,7 @@
 
 •	Evaluated internal manufacturing costs as part of the Make versus Buy analysis, enhancing supply chain analytics expertise and communication skills.
 
-*Dashboards -*
+### *Dashboards -*
 
 ![Supply Chain Analysis - Supplier Selection Dashboard](https://github.com/RushikaBattu/portfolio-projects/assets/135265999/0eb52a3f-4b8c-4bf1-8e86-dc4a71a49ea7)
 
