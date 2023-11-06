@@ -8,3 +8,7 @@ Analyzing Healthcare Data in Tableau
 
 Tableau Public Link: https://public.tableau.com/app/profile/rushika.battu/vizzes
 
+<img width="1226" alt="Analyzing Healthcare Data - LOS View" src="https://github.com/RushikaBattu/portfolio-projects/assets/135265999/a3b865cf-36c6-441d-85fe-50da840c1b9d">
+
+<img width="1216" alt="Analyzing Healthcare Data - Costs View" src="https://github.com/RushikaBattu/portfolio-projects/assets/135265999/e5e30ce1-46ac-4133-9342-639d8304595b">
+
