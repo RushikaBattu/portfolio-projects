@@ -1,4 +1,4 @@
-## **Inventory Analysis in Tableau -**
+### **Inventory Analysis in Tableau -**
 
 •	Developed an Inventory Analysis Tableau story for a fictitious retail company, encompassing data cleaning, calculated fields, and interactive visualizations.
 
