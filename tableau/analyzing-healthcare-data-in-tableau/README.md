@@ -7,7 +7,8 @@
 •	Developed dynamic and interactive Tableau dashboards to effectively convey actionable insights and present data for enhanced decision-making. 
 
 
-### **Tableau Public Link -** https://public.tableau.com/app/profile/rushika.battu/vizzes
+### **Tableau Public Link -** 
+https://public.tableau.com/app/profile/rushika.battu/vizzes
 
 ### *Dashboards -*
 
