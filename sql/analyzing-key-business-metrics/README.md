@@ -1,4 +1,4 @@
-### ** Analyzing Key Business Metrics with SQL -**
+### **Analyzing Key Business Metrics with SQL -**
 
 •	Used SQL queries to analyze revenue, cost, and profit, gaining valuable insights into financial performance.
 
