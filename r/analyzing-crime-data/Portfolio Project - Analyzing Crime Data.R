@@ -5,8 +5,8 @@ library(tidyverse)
 library(lubridate)
 
 # Read datasets and assign to variables
-incidents <- read_csv("/Users/rushikabattu/Desktop/incidents.csv")
-calls <- read_csv("/Users/rushikabattu/Desktop/calls-for-service.csv")
+incidents <- read_csv("incidents.csv")
+calls <- read_csv("calls-for-service.csv")
 print('Done!')
 
 str(incidents)
