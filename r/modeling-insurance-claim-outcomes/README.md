@@ -1,4 +1,4 @@
-### **Modeling Insurance Claim Outcomes with R -**
+### **Modeling Insurance Claim Outcomes with R -** 
 
 •	Analyzed customer car insurance data using logistic regression to predict likelihood of claims using R packages.
 
