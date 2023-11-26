@@ -1,6 +1,6 @@
 ### **Ecommerce Analysis in Power BI –**
 
-•	Explored and cleansed real-world ecommerce data, using Power Query for data modeling and customer and order metric creation.
+•	Explored and cleansed ecommerce data, using Power Query for data modeling and customer and order metric creation.
 
 •	Developed ecommerce metrics, created sales maps, and performed what-if analyses on shipping costs using DAX.
 
