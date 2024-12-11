@@ -6,3 +6,4 @@
 
 •	Developed automation functions for routine marketing analysis, emphasizing data segmentation for enhanced insights.
 
+
