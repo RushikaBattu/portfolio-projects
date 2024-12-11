@@ -6,6 +6,7 @@
 
 •	Designed dashboards for reporting inventory analytics, enhancing purchase decisions and stock management efficiency.
 
+
 ### **Tableau Public Link -** 
 https://public.tableau.com/app/profile/rushika.battu/vizzes
 
